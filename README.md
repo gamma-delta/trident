@@ -1,6 +1,6 @@
 # Trident
 
-[The Trident logo rendered with Trident](logo.png)
+![The Trident logo rendered with Trident](logo.png)
 
 Trident is a parser for polygon meshes, designed for use with ggez.
 
