@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "trident",
+    "trident-viewer"
+]

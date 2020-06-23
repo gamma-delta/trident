@@ -1,0 +1,17 @@
+# The Trident logo
+
+# The background splash
+-5, 20; 15, -8; 6, 32;. f3dfbf # Big splash
+-4, 10; 14, 3; 15, 25;. eb8a90 # Smaller part
+
+
+# The prongs are 10 tall and 4 wide.
+2, 0 ; 4, 10 ; 0, 10;. 42e2b8
+6, 0 ; 8, 10 ; 4, 10;. 42e2b8
+10, 0; 12, 10; 8, 10;. 42e2b8
+
+# Handle is 40 tall and 12 wide
+0, 10 ; 12, 10 ; 6, 50 ;. 2d82b7
+
+# Inlay
+1.0, 12; 11, 12; 6, 45 ;. 07004d
